@@ -11,7 +11,7 @@
 <a href="mailto:akhusro30@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="./downloads/Resume.pdf">
+<a href="./Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-DA5A47?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
 
